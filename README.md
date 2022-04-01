@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Back-End Development.
 - 🌱 I’m currently learning Java from [Kodluyoruz](https://www.kodluyoruz.org/) Bootcamp.
-- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
+- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself.
 - 👯 I’m looking to collaborate on group on a project.
 - 😄 Nice to meet you!
 
