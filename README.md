@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Sena 👋
 
-<!--
-**SenaOzcn/SenaOzcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A558&width=750&lines=I'm+a+Computer+Programmer,++Backend+Developer+and+Freelancer+💻)
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github.com/SenaOzcn/SenaOzcn/blob/MIT-License/header.jpg/computer-program-code.jpg" width="410" alt="iComics on an iPhone XS Max" align="right" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.linkedin.com/in/senaozcn/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+
+- 🔭 I’m currently working on Back-End Development.
+- 🌱 I’m currently learning Java from [Kodluyoruz](https://www.kodluyoruz.org/) Bootcamp.
+- ⚡ I am really interested in programming. I'm very passionate and dedicated to improve myself. I enjoy every step of the design process, from discussion and collaboration.
+- 👯 I’m looking to collaborate on group on a project.
+- 😄 Nice to meet you!
+
