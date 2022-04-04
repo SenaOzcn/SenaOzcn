@@ -8,9 +8,9 @@
 <img src="https://github.com/SenaOzcn/SenaOzcn/blob/MIT-License/images.jpg" width="210" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
-- 🔭 I’m currently working on [@Kodluyoruz](https://www.kodluyoruz.org/)
+- 🔭 I’m currently working on [Kodluyoruz](https://www.kodluyoruz.org/)
 
-- 🌱 I’m currently learning **Java from @Kodluyoruz Bootcamp.**
+- 🌱 I’m currently learning **Java from Kodluyoruz Bootcamp.**
 
 - 👯 I’m looking to collaborate on **group on a project.**
 
