@@ -2,7 +2,7 @@
 
 
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6700&width=750&lines=I'm+a+Computer+Programmer,++Backend+Developer+and+Freelancer+💻)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6700&width=750&lines=I'm+a+Computer+Programmer,++Developer+and+Freelancer+💻)
 
 <p align="center">
 <img src="https://github.com/SenaOzcn/SenaOzcn/blob/MIT-License/images.jpg" width="210" alt="iComics on an iPhone XS Max" align="right" />
