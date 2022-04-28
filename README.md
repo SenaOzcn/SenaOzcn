@@ -2,7 +2,7 @@
 
 
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6700&width=750&lines=I'm+a+Computer+Programmer,++Developer+and+Freelancer+💻)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&width=750&lines=I'm+a+Computer+Programmer,++Developer+and+Freelancer+💻)
 
 <p align="center">
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" alt="iComics on an iPhone XS Max" align="right" />
