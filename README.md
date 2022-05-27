@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@1.senaozcan)
 
-- 💬 Ask me about **Java, algorithm, syber security**
+- 💬 Ask me about **Java, algorithm, syber security, SQL**
 
 - 📫 How to reach me **1.senaozcan@gmail.com**
 
