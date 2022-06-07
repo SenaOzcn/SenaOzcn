@@ -19,6 +19,7 @@
 - [Bilgisayar Programlama](https://medium.com/@1.senaozcan/bilgisayar-programlama-3532503aebdb)
 - [Hack Nedir? Hacker Türleri | Siber Suç](https://medium.com/@1.senaozcan/hack-nedir-hacker-t%C3%BCrleri-siber-su%C3%A7-e13fe1e5bcf)
 - [Algoritma](https://medium.com/@1.senaozcan/algoritma-3f7460d11101)
+- [Java Komutları ve İlk Programınız](https://medium.com/@1.senaozcan/java-komutlar%C4%B1-ve-i%CC%87lk-program%C4%B1n%C4%B1z-5ff63514ad03)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
