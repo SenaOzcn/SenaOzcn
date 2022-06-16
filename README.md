@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">A passionate Java developer from Turkey</h3>
+<h3 align="center">A passionate Web developer from Turkey</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senaozcn" alt="senaozcn" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@1.senaozcan)
 
-- 💬 Ask me about **Java, algorithm, syber security, SQL**
+- 💬 Ask me about **Frontend web development, Java, algorithm, syber security, SQL**
 
 - 📫 How to reach me **1.senaozcan@gmail.com**
 
