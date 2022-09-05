@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@1.senaozcan) and [tumblr](https://senaozcn.tumblr.com/)
 
-- 💬 Ask me about **Frontend web development, Java, algorithm, syber security, SQL**
+- 💬 Ask me about **Frontend web development, Java, algorithm, cyber security, SQL**
 
 - 📫 How to reach me **1.senaozcan@gmail.com**
 
