@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">a web developer</h3>
+<h1 align="center"> 👩‍💻 Who am i </h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://dev.to/sena_ozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sena_ozcn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17253265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17253265" height="30" width="40" /></a>
-<a href="https://dribbble.com/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://www.behance.net/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://hashnode.com/@senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@senaozcn" height="30" width="40" /></a>
-<a href="https://medium.com/@1.senaozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@1.senaozcan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/senaozcn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sena_ozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sena_ozcn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/snozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snozcn" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/senaozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="senaozcn" height="30" width="40" /></a>
-<a href="https://discord.gg/#4349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4349" height="30" width="40" /></a>
-<a href="/https://dashboard.rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/" height="30" width="40" /></a>
+---
+
+<img src = "https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=F75F22&size=24&lines=Hey+there,+I%27m+Sena.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I%27m+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt = "Typing SVG">
+
+<p align="center">
+  I'm Sena, I love Programming.
+  I'm more of a self-learner who loves to learn from the Internet apart from classroom.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- &#128214; I’m currently learning Machine Learning.
+- &#11088; I work on ***Improving my skills*** in free time.
+- &#128396; I'm a ***Graphic Design artist***.(Checkout my behance profile below)
+- &#127946; I love playing ***Swimming***.
+- &#128526; I am ***super positive*** and I always look forward for new adventures around Tech.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senaozcn&show_icons=true&locale=en&layout=compact" alt="senaozcn" /></p>
+<h2 align="center"> :student: Programming Languages</h2>
 
+---
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-critical.svg?style=for-the-badge&logo=java3&logoColor=white)
+
+<h2 align="center">:computer: Software and Tools</h2>
+
+---
+
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<h2  align="center">&#x1F4EC; Reach me on</h2>
+
+---
+
+<p align = "center">  
+<a href="mailto:1.senaozcan@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://www.linkedin.com/in/senaozcn/">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://medium.com/@1.senaozcan">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/5968/5968933.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
