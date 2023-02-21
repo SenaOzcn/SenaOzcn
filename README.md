@@ -9,7 +9,7 @@
   I'm more of a self-learner who loves to learn from the Internet apart from classroom.
 </p>
 
-- &#128214; I’m currently learning Machine Learning.
+- &#128214; I’m currently learning ***Machine Learning***.
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#128396; I'm a ***Graphic Design artist***.(Checkout my behance profile below)
 - &#127946; I love ***Swimming***.
