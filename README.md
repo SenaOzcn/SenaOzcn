@@ -12,7 +12,7 @@
 - &#128214; I’m currently learning Machine Learning.
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#128396; I'm a ***Graphic Design artist***.(Checkout my behance profile below)
-- &#127946; I love playing ***Swimming***.
+- &#127946; I love ***Swimming***.
 - &#128526; I am ***super positive*** and I always look forward for new adventures around Tech.
 
 <h2 align="center"> :student: Programming Languages</h2>
