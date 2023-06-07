@@ -2,7 +2,7 @@
 
 ---
 
-<img src = "https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=F75F22&size=24&lines=Hey+there,+I%27m+Sena.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I%27m+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt = "Typing SVG">
+<img src = "https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=065535&size=24&lines=Hey+there,+I%27m+Sena.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I%27m+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt = "Typing SVG">
 
 <p align="center">
   I'm Sena, I love Programming.
