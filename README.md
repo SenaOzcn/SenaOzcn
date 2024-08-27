@@ -1,5 +1,4 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=000000&background=FDFDFD00&width=435&lines=Hey+there%2C+I'm+Sena.;+I'm+a+software+developer." alt="Typing SVG" />
 
 
 
