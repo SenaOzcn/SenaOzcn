@@ -1,6 +1,6 @@
 # Hi there, I'm Sena! 👋
 
-### 🌊 Founder of [River Web Studio](https://github.com/RiverWebStudio) | Web Developer
+### 🌊 Founder of [River Web Studio](https://github.com/River-Web-Studio) | Web Developer
 
 I am the founder of **River Web Studio**, dedicated to crafting high-impact digital experiences. I bridge the gap between creative design and robust, scalable web development, managing projects from initial UI/UX strategy to full-stack implementation.
 
